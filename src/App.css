@@ -1,0 +1,11 @@
+  
+.header {
+    background-color: #1c3e95;
+    display: flex;
+    justify-content: center;
+    
+  }
+  
+  .header img {
+    height: 200px;
+  }
